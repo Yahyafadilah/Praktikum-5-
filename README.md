@@ -16,6 +16,8 @@ Membuat program yang akan menampilkan daftar nilai mahasiswa dengan ketentuan se
 ## Flowchart
 
 
+[Flowchart Praktikum 5.pdf](https://github.com/Yahyafadilah/Praktikum-5-/files/5608226/Flowchart.Praktikum.5.pdf)
+
 
 
 ## Hasil Output
